@@ -11,16 +11,16 @@
 				<string>TLS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>2620:fe::fe</string>
-					<string>2620:fe::9</string>
-					<string>9.9.9.9</string>
-					<string>149.112.112.112</string>
+					<string>2620:fe::11</string>
+					<string>2620:fe::fe:11</string>
+					<string>9.9.9.11</string>
+					<string>149.112.112.11</string>
 				</array>
 				<key>ServerName</key>
-				<string>dns.quad9.net</string>
+				<string>dns11.quad9.net</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Quad9 Encrypted DNS over HTTPS</string>
+			<string>Configures device to use Quad9 Encrypted DNS over TLS</string>
 			<key>PayloadDisplayName</key>
 			<string>Quad9 DNS over TLS</string>
 			<key>PayloadIdentifier</key>
